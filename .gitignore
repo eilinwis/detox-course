@@ -37,3 +37,7 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Detox / screenshot tests
+artifacts/
+e2e/**/__diff_output__/
